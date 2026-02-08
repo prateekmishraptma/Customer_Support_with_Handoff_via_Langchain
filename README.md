@@ -6,6 +6,8 @@ The system intelligently routes customer queries between specialized agents (Bil
 The implementation follows LangChain’s official handoff architecture:
 https://docs.langchain.com/oss/python/langchain/multi-agent/handoffs-customer-support
 
+<img width="711" height="721" alt="image" src="https://github.com/user-attachments/assets/9c857299-cbb8-4e30-b3db-88b8d5ee3794" />
+
 ---
 
 ## 🧠 Key Concept: Agent Handoffs
